@@ -27,12 +27,12 @@ See more images at [gh-pages branch](//github.com/gima/motorola_lapdock/tree/gh-
 * Connects front battery status button and -leds to battery control board
 * "U1" has unknown function. Maybe I missed a connector lead, or it's some kind of "check if board present".
 
-![](//gima.github.io/motorola_lapdock/imgs/tpboard_overview.jpg)
+![](https://gima.github.io/motorola_lapdock/imgs/tpboard_overview.jpg)
 
 
 ## Touchpad
 
-![](//gima.github.io/motorola_lapdock/imgs/touchpad_driver.jpg)
+![](https://gima.github.io/motorola_lapdock/imgs/touchpad_driver.jpg)
 
 Help in identifying the chip. It is the touchpad controller. Couldn't even find the manufacturer based on the logo.
 
@@ -43,7 +43,7 @@ Help in identifying the chip. It is the touchpad controller. Couldn't even find 
 
 ### JLVDS1 connector
 
-![](//gima.github.io/motorola_lapdock/imgs/jlvds1.jpg)
+![](https://gima.github.io/motorola_lapdock/imgs/jlvds1.jpg)
 
       0                 1
       1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
@@ -58,7 +58,7 @@ G = Gnd. Dots are as of yet unknown. [LVDS](https://en.wikipedia.org/wiki/Low-vo
 The keyboard should be pretty simple. Not that I know much about it, but the pins are probably some sort of keyboard matrix plus the keyboard leds.
 
 The original main board uses Holtek
-![](//gima.github.io/motorola_lapdock/imgs/holtek.jpg)
+![](https://gima.github.io/motorola_lapdock/imgs/holtek.jpg)
 
 * [Holtek HT82K94E (USB Multimedia Keyboard Encoder 8-Bit MCU)](holtek.com/english/docum/computer/82k94x.htm) for presenting the keyboard as a USB keyboard.
 
