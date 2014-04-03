@@ -1,0 +1,1 @@
+* http://www.techrepublic.com/pictures/cracking-open-the-motorola-droid-bionic-lapdock/
