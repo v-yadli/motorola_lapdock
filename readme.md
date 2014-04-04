@@ -23,7 +23,7 @@ See [TechRepublic's teardown pictures](http://www.techrepublic.com/pictures/crac
 
     Status: Unknown driver chip, initial logic captures.
 
-Link: [Project's Directory](//github.com/gima/motorola_lapdock/touchpad)
+Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/touchpad)
 
 *The touchpad driver chip is not identified. Unknown protocol (to me), but operates through two wires (clock and data) at 12 kHz. Preliminary logic captures are available.*
 
@@ -34,7 +34,7 @@ Link: [Project's Directory](//github.com/gima/motorola_lapdock/touchpad)
 
     Status: Connector is named "JLVDS1" and it's GND pins are mapped.
 
-Link: [Project's Directory](//github.com/gima/motorola_lapdock/screen)
+Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/screen)
 
 *This project has not yet started.*
 
@@ -45,7 +45,7 @@ Link: [Project's Directory](//github.com/gima/motorola_lapdock/screen)
 
     Status: Assuming keyboard pins to contain keyboard matrix + leds.
 
-Link: [Project's Directory](//github.com/gima/motorola_lapdock/keyboard)
+Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/keyboard)
 
 *This project has not yet started, but I'm assuming that it's quite easy.*
 
@@ -56,7 +56,7 @@ Link: [Project's Directory](//github.com/gima/motorola_lapdock/keyboard)
 
     Status: All interfacing pins mapped.
 
-Link: [Project's Directory](//github.com/gima/motorola_lapdock/tp_board)
+Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/tp_board)
 
 *Acts as a mediator between main board, touchpad driver and battery controller. Has two one "own" function: magnet sensor to main board.*
 
