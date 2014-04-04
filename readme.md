@@ -47,7 +47,14 @@ Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/scree
 
 Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/keyboard)
 
-*This project has not yet started, but I'm assuming that it's quite easy.*
+---
+
+
+### [_] Battery charging, usb power out, toggle power (switch?) etc.
+
+    Status: Not yet started.
+
+Link: No project directory yet.
 
 ---
 
@@ -60,13 +67,14 @@ Link: [Project's Directory](//github.com/gima/motorola_lapdock/tree/master/tp_bo
 
 *Acts as a mediator between main board, touchpad driver and battery controller. Has two one "own" function: magnet sensor to main board.*
 
---
+---
 
-### [_] Battery charging, usb power out, toggle power (switch?) etc.
 
-    Status: Not yet started.
+### [no] Main board
 
-Link: No project directory yet.
+    Status: Not a sub-project by itself.
+
+Link: [Mainboard Directory](//github.com/gima/motorola_lapdock/tree/master/mainboard)
 
 ---
 
