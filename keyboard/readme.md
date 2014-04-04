@@ -6,7 +6,7 @@ The original main board uses [Holtek HT82K94E (USB Multimedia Keyboard Encoder 8
 
 ![](https://raw.githubusercontent.com/gima/motorola_lapdock/master/keyboard/holtek.jpg)
 
-Link: [Datasheet](//github.com/gima/motorola_lapdock/datasheets)
+Link: [Datasheet](//github.com/gima/motorola_lapdock/tree/master/datasheets)
 
 ## Connector
 
