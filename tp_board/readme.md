@@ -1,4 +1,4 @@
-## Bottom board
+# Bottom board
 
 *touchpad, battery button, battery leds, mouse buttons, magnetic sensor*
 
@@ -9,7 +9,8 @@
 
 ![](https://raw.githubusercontent.com/gima/motorola_lapdock/master/tp_board/tpboard_overview.jpg)
 
-### Pinouts:
+
+## Pinouts:
 
 *(ffc = flexible flat cable)*
 
@@ -46,6 +47,5 @@ JP2 (ffc main board):
 
 Link: [Pinouts embedded in an image](//raw.githubusercontent.com/gima/motorola_lapdock/master/tp_board/bottom%20board%20%28tp,batbtn,batleds,mbtns%29.jpg).
 
----
 
-### eof
+## eof

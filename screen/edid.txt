@@ -1,0 +1,211 @@
+			EDID Manager Version: 1.0.0.14
+	___________________________________________________________________
+
+	Block 0 (EDID Base Block), Bytes 0 - 127,  128  BYTES OF EDID CODE:
+
+		        0   1   2   3   4   5   6   7   8   9   
+		000  |  00  FF  FF  FF  FF  FF  FF  00  35  F4
+		010  |  C4  3D  01  00  00  00  20  14  01  03
+		020  |  80  1A  0E  78  0A  FE  75  92  5B  56
+		030  |  91  27  1F  50  54  00  00  00  01  01
+		040  |  01  01  01  01  01  01  01  01  01  01
+		050  |  01  01  01  01  20  1C  56  86  50  00
+		060  |  20  30  0E  38  13  00  00  90  10  00
+		070  |  00  1E  00  00  00  FF  00  30  30  30
+		080  |  30  30  31  0A  0A  0A  0A  0A  0A  0A
+		090  |  00  00  00  FD  00  32  4B  1E  55  0F
+		100  |  00  0A  20  20  20  20  20  20  00  00
+		110  |  00  FC  00  4D  6F  74  6F  41  74  74
+		120  |  61  63  68  0A  20  20  01  02
+
+(8-9)    	ID Manufacture Name : MOT
+(10-11)  	ID Product Code     : 3DC4
+(12-15)  	ID Serial Number    : N/A
+(16)     	Week of Manufacture : 32
+(17)     	Year of Manufacture : 2010
+
+(18)     	EDID Version Number : 1
+(19)     	EDID Revision Number: 3
+
+(20)     	Video Input Definition       : Digital
+(21)     	Maximum Horizontal Image Size: 26 cm
+(22)     	Maximum Vertical Image Size  : 14 cm
+(23)     	Display Gamma                : 2,20
+(24)     	Power Management and Supported Feature(s):
+			RGB Color, Non-sRGB, Preferred Timing Mode
+
+(25-34)  	Color Characteristics
+			Red Chromaticity   :  Rx = 0,573  Ry = 0,354
+			Green Chromaticity :  Gx = 0,339  Gy = 0,564
+			Blue Chromaticity  :  Bx = 0,149  By = 0,120
+			Default White Point:  Wx = 0,313  Wy = 0,329
+
+(35)     	Established Timings I (Not Used)
+
+(36)     	Established Timings II (Not Used)
+
+(37)     	Manufacturer's Timings (Not Used)
+
+(38-53)  	Standard Timings (Not Used)
+
+(54-71)  	Detailed Descriptor #1: Preferred Detailed Timing (1366x768 @ 60Hz)
+
+			Pixel Clock            : 72 MHz
+			Horizontal Image Size  : 256 mm
+			Vertical Image Size    : 144 mm
+			Refresh Mode           : Non-interlaced
+			Normal Display, No Stereo
+
+			Horizontal:
+				Active Time     : 1366 Pixels
+				Blanking Time   : 134 Pixels
+				Sync Offset     : 14 Pixels
+				Sync Pulse Width: 56 Pixels
+				Border          : 0 Pixels
+				Frequency       : 48 kHz
+
+			Vertical:
+				Active Time     : 768 Lines
+				Blanking Time   : 32 Lines
+				Sync Offset     : 1 Lines
+				Sync Pulse Width: 3 Lines
+				Border          : 0 Lines
+
+			Digital Separate, Horizontal Polarity (+), Vertical Polarity (+)
+
+			Modeline: "1366x768" 72,000 1366 1380 1436 1500 768 769 772 800 +hsync +vsync
+
+(72-89)  	Detailed Descriptor #2: Monitor Serial Number
+
+			Monitor Serial Number: 000001
+
+(90-107) 	Detailed Descriptor #3: Monitor Range Limits
+
+			Horizontal Scan Range: 30kHz-85kHz
+			Vertical Scan Range  : 50Hz-75Hz
+			Supported Pixel Clock: 150 MHz
+			Secondary GTF        : Not Supported
+
+(108-125)	Detailed Descriptor #4: Monitor Name
+
+			Monitor Name: MotoAttach
+
+(126-127)	Extension Flag and Checksum
+
+			Extension Block(s)  : 1
+			Checksum Value      : 2
+
+	___________________________________________________________________
+
+	Block 1 ( CEA-861 Extension Block), Bytes 128 - 255,  128  BYTES OF EDID CODE:
+
+		        0   1   2   3   4   5   6   7   8   9   
+		128  |  02  03  16  71  43  01  03  12  23  09
+		138  |  D7  07  83  01  00  00  65  03  0C  00
+		148  |  10  00  20  1C  56  86  50  00  20  30
+		158  |  0E  38  13  00  00  90  10  00  00  1E
+		168  |  7E  1D  56  86  50  00  20  30  0E  38
+		178  |  13  00  00  90  10  00  00  1E  00  00
+		188  |  00  10  00  1C  16  20  58  2C  25  00
+		198  |  D7  40  32  00  00  9E  00  00  00  00
+		208  |  00  00  00  00  00  00  00  00  00  00
+		218  |  00  00  00  00  00  00  00  00  00  00
+		228  |  00  00  00  00  00  00  00  00  00  00
+		238  |  00  00  00  00  00  00  00  00  00  00
+		248  |  00  00  00  00  00  00  00  00
+
+(128-130)	Extension Header
+
+			Revision Number    :	3
+			DTD Starting Offset:	22
+
+(131)    	Display Support
+
+			Basic Audio, YCbCr 4:4:4, YCbCr 4:2:2
+			Number of Native Formats: 1
+
+(132-135)	Video Data Block
+
+			640x480p @ 59.94/60Hz - EDTV (4:3, 1:1)
+			720x480p @ 59.94/60Hz - EDTV (16:9, 32:27)
+			720x576p @ 50Hz - EDTV (16:9, 64:45)
+
+(136-139)	Audio Data Block
+
+			Audio Format #1    : LPCM, 2-Channel, 24-Bit, 20-Bit, 16-Bit
+			Sampling Frequency : 192 kHz, 96 kHz, 48 kHz, 44.1 kHz, 32 kHz
+
+(140-143)	Speaker Allocation Data Block (SADB)
+
+			Front Left/Front Right Audio Channel (FL/FR)
+
+(144-149)	Vendor Specific Data Block (VSDB)
+
+			IEEE Registration Identifier: 0x000C03
+			CEC Physical Address        : 0x0010
+
+(150-167)	Detailed Descriptor #1: Detailed Timing (1366x768 @ 60Hz 16:9 Apsect Ratio)
+
+			Pixel Clock            : 72 MHz
+			Horizontal Image Size  : 256 mm
+			Vertical Image Size    : 144 mm
+			Refresh Mode           : Non-interlaced
+			Normal Display, No Stereo
+
+			Horizontal:
+				Active Time     : 1366 Pixels
+				Blanking Time   : 134 Pixels
+				Sync Offset     : 14 Pixels
+				Sync Pulse Width: 56 Pixels
+				Border          : 0 Pixels
+				Frequency       : 48 kHz
+
+			Vertical:
+				Active Time     : 768 Lines
+				Blanking Time   : 32 Lines
+				Sync Offset     : 1 Lines
+				Sync Pulse Width: 3 Lines
+				Border          : 0 Lines
+
+			Digital Separate, Horizontal Polarity (+), Vertical Polarity (+)
+
+			Modeline: "1366x768" 72,000 1366 1380 1436 1500 768 769 772 800 +hsync +vsync
+
+(168-185)	Detailed Descriptor #2: Detailed Timing (1366x768 @ 63Hz 16:9 Apsect Ratio)
+
+			Pixel Clock            : 75,5 MHz
+			Horizontal Image Size  : 256 mm
+			Vertical Image Size    : 144 mm
+			Refresh Mode           : Non-interlaced
+			Normal Display, No Stereo
+
+			Horizontal:
+				Active Time     : 1366 Pixels
+				Blanking Time   : 134 Pixels
+				Sync Offset     : 14 Pixels
+				Sync Pulse Width: 56 Pixels
+				Border          : 0 Pixels
+				Frequency       : 50 kHz
+
+			Vertical:
+				Active Time     : 768 Lines
+				Blanking Time   : 32 Lines
+				Sync Offset     : 1 Lines
+				Sync Pulse Width: 3 Lines
+				Border          : 0 Lines
+
+			Digital Separate, Horizontal Polarity (+), Vertical Polarity (+)
+
+			Modeline: "1366x768" 75,500 1366 1380 1436 1500 768 769 772 800 +hsync +vsync
+
+(204-221)	Detailed Descriptor #4: Defined by Manufacturer
+
+(222-239)	Detailed Descriptor #5: Defined by Manufacturer
+
+(240-254)	Post DTD Padding
+
+			Residual Byte Padding: 000000000000000000000000000000
+
+(255)    	Checksum Value: 0
+
+	___________________________________________________________________

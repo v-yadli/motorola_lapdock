@@ -1,4 +1,4 @@
-## Main board
+# Main board
 
 Not a sub-project by itself as such..
 
@@ -25,6 +25,5 @@ Link: [Instructions on how to use the HDMI and USB ports of the dock](http://www
       Boot Interface Subclass
       Mouse
 
----
 
-### eof
+## eof

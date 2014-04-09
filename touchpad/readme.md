@@ -1,4 +1,4 @@
-## Interfacing touchpad
+# Interfacing touchpad
 
 *Help in identifying the touchpad controller chip. Couldn't even find the manufacturer based on the logo.*
 
@@ -8,6 +8,5 @@
 
 ![](https://raw.githubusercontent.com/gima/motorola_lapdock/master/touchpad/legend.png)
 
----
 
-### eof
+## eof
